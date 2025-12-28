@@ -1,7 +1,3 @@
-CREATE DATABASE IF NOT EXISTS alx_book_store;
-
-USE alx_book_store;
-
 CREATE TABLE IF NOT EXISTS authors (
     author_id INT NOT NULL AUTO_INCREMENT,
     name VARCHAR(255) NOT NULL,
