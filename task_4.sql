@@ -1,3 +1,4 @@
-SHOW COLUMNS FROM books;
+SHOW FULL COLUMNS FROM books;
+
 
 
